@@ -4,6 +4,9 @@
 
 This is a **frontend** project that showcases a simple, stylish portfolio website for photographers. It includes a sidebar navigation menu, sections for a gallery, exhibits, events, contact info, and social media links. The website uses **HTML** and **CSS** for structure and styling, with **Font Awesome icons** for the navigation menu.
 
+## Live Demo Link
+ https://mdjunaid12.github.io/CSS-Project/
+
 ## Features
 - **Sidebar Navigation**: A clean, fixed sidebar with menu items like Gallery, Shortcuts, Exhibits, Events, Store, Contact, and Feedback.
 - **Responsive Design**: The sidebar menu can be toggled open and closed on smaller screens using a checkbox.
